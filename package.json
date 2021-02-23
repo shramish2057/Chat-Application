@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shramish2057/Chat-Application.git"
+  },
+  "author": "Shramish Kafle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shramish2057/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/shramish2057/Chat-Application#readme"
 }
